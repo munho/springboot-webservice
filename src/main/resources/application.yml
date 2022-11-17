@@ -17,4 +17,4 @@ spring:
       data-locations: classpath:data-h2.sql
   config:
     activate:
-      on-profile: 
+      on-profile:
